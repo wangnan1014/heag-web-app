@@ -1,0 +1,25 @@
+Manifest-Version: 1.0
+Class-Path: neethi-3.0.3.jar cxf-rt-bindings-xml-3.1.6.jar cxf-rt-ws-a
+ ddr-3.1.6.jar javaee-api-7.0.jar slf4j-api-1.7.7.jar woodstox-core-as
+ l-4.4.1.jar jaxb-impl-2.2.11.jar xmlschema-core-2.2.1.jar spring-webs
+ ocket-4.2.0.RELEASE.jar slf4j-log4j12-1.7.7.jar spring-expression-4.2
+ .0.RELEASE.jar asm-5.0.4.jar cxf-rt-frontend-jaxws-3.1.6.jar cxf-rt-w
+ sdl-3.1.6.jar stax2-api-3.1.4.jar commons-logging-1.2.jar commons-fil
+ eupload-1.3.1.jar commons-lang-2.4.jar spring-tx-4.2.0.RELEASE.jar cx
+ f-rt-databinding-jaxb-3.1.6.jar javax.mail-1.5.0.jar commons-codec-1.
+ 9.jar jackson-mapper-lgpl-1.9.6.jar commons-collections-3.2.1.jar spr
+ ing-webmvc-4.2.0.RELEASE.jar spring-core-4.2.0.RELEASE.jar jstl-1.2.j
+ ar mybatis-spring-1.3.1.jar spring-context-4.2.0.RELEASE.jar wsdl4j-1
+ .6.3.jar spring-beans-4.2.0.RELEASE.jar jackson-core-asl-1.9.5.jar ja
+ ckson-core-lgpl-1.9.6.jar cxf-rt-frontend-simple-3.1.6.jar commons-po
+ ol-1.3.jar aopalliance-1.0.jar jaxb-core-2.2.11.jar cxf-rt-bindings-s
+ oap-3.1.6.jar javax.websocket-api-1.1.jar commons-dbcp-1.2.2.jar cxf-
+ rt-ws-policy-3.1.6.jar mybatis-plus-2.0.1.jar mybatis-3.4.2.jar mysql
+ -connector-java-5.1.38.jar spring-jdbc-4.2.0.RELEASE.jar spring-web-4
+ .2.0.RELEASE.jar xml-resolver-1.2.jar spring-oxm-4.2.0.RELEASE.jar sp
+ ring-context-support-4.2.0.RELEASE.jar spring-aop-4.2.0.RELEASE.jar s
+ pring-test-4.2.0.RELEASE.jar velocity-1.7.jar commons-io-2.4.jar cxf-
+ rt-transports-http-3.1.6.jar activation-1.1.jar jackson-mapper-asl-1.
+ 9.5.jar cxf-core-3.1.6.jar fastjson-1.2.3.jar log4j-1.2.17.jar
+Main-Class: 
+
